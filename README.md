@@ -81,14 +81,11 @@ Soal:
 
 # SCREENSHOT JAWABAN
 
-![Screenshot 2023-07-20 234656]
-
 # Sample 1
-(https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/64808a4f-e250-4099-bb30-b6bbc8092d44)
+![Screenshot 2023-07-20 234656](https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/1f9b2f7e-6fc9-4edb-b86c-45419025e763)
 
 # Sampel 2
-![Screenshot 2023-07-21 000432]
-(https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/954d2d68-cbe3-4576-ab5f-4c724739eded)
+![Screenshot 2023-07-21 000432](https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/df448c14-60be-4a3f-88e2-e9a34afb6d5a)
 
 # Sampel 3
 ![Screenshot 2023-07-21 000416](https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/d18eeeaa-eccf-4644-bb98-1ad07230d7cc)
