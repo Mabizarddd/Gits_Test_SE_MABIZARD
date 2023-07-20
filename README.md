@@ -1,4 +1,4 @@
-![Screenshot 2023-07-21 000432](https://github.com/Mabizarddd/Gits_Test_SE_MABIZARD/assets/96507425/d48a86cd-f606-4bce-9680-f180963bd4d0)# Gits_Test_SE_MABIZARD
+# Gits_Test_SE_MABIZARD
 
 # 1. Buatlah sebuah program dengan output sebagai berikut. Input bisa dinamis yang menghasilkan output yang berbeda-beda sesuai input yang dimasukan. Gunakan rumus A000124 of Sloane’s OEIS.
 
